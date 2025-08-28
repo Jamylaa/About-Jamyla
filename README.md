@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jamila Ben Abdelkader</h1>
 <h3 align="center">A passionate Student Engineering from Tunisia</h3>
 
-- 🌱 I’m currently learning **SpringBoot , .Net**
+- 🌱 I’m currently learning **SpringBoot, Angular, .Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jamylaa](https://github.com/Jamylaa)
 
@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I enjoy preparing delicious meals**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
