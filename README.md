@@ -9,6 +9,10 @@
 
 - ⚡ Fun fact **I enjoy preparing delicious meals**
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Jamylaa/Projet-Flutter)
+![GitHub stars](https://img.shields.io/github/stars/Jamylaa/Projet-Flutter)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jamylaa/Projet-Flutter)
+
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
