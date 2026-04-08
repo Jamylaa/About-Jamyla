@@ -4,7 +4,7 @@
 ![Focus](https://img.shields.io/badge/FullStack%20%2B%20AI-green)
 ![Learning](https://img.shields.io/badge/Learning-DevOps-yellow)
 
-selon mon readme , donner des badges: <h1 align="center">Hi 👋, I'm Jamila Ben Abdelkader</h1>
+ <h1 align="center">Hi 👋, I'm Jamila Ben Abdelkader</h1>
 <h3 align="center">A passionate Student Engineering from Tunisia</h3>
 
 - 🌱 I’m currently learning **SpringBoot, Angular, .Net, DevOps**
